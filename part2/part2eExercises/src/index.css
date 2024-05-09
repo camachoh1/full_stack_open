@@ -1,0 +1,23 @@
+body {
+  background: radial-gradient(circle, #51e2f5, #9df9ef);
+}
+
+.success {
+  color: rgb(4, 100, 22);
+  background: rgb(94, 205, 102);
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  background: rgb(205, 98, 94);
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
